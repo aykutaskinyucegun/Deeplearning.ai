@@ -1,0 +1,113 @@
+https://github.com/josephmisiti/awesome-machine-learning/blob/master/courses.md | awesome-machine-learning/courses.md at master · josephmisiti/awesome-machine-learning
+
+https://hackernoon.com/convolutional-neural-network-in-5-minutes-8f867eb9ca39 | Convolutional Neural Network in 5 minutes – Hacker Noon
+https://hackernoon.com/the-only-undergrad-and-indian-to-be-invited-to-present-at-anaconda-conference-my-deep-learning-d4bde583ffa4 | The only Undergrad and Indian to be invited to present at Anaconda Conference: My Deep Learning…
+https://hackernoon.com/hiring-fair-experience-39ff232e95a8 | Hiring Fair Experience – Hacker Noon
+https://hackernoon.com/installing-ubuntu-18-04-along-with-windows-10-dual-boot-installation-for-deep-learning-f4cd91b58557 | Installing Ubuntu 18.04 along with Windows 10 (Dual Boot Installation) for Deep Learning
+https://hackernoon.com/fast-ai-machine-learning-lecture-1-notes-3ca45cec4235 | Fast AI Machine Learning Lecture 1 Notes – Hacker Noon
+https://hackernoon.com/my-machine-learning-path-cb6edab4630 | My Machine Learning Path – Hacker Noon
+https://hackernoon.com/why-every-coder-needs-a-mentor-78d59d21c7c | Why Every Coder Needs a Mentor – Hacker Noon
+
+https://miguel-data-sc.github.io/2017-11-05-first/ | Visualizing Learning rate vs Batch size
+
+https://medium.com/@radekosmulski | Radek Osmulski – Medium
+https://hackernoon.com/how-to-train-your-neural-network-cb5a36e91072 | How to train your neural network – Hacker Noon
+https://towardsdatascience.com/a-practitioners-guide-to-pytorch-1d0f6a238040 | A practitioner's guide to PyTorch – Towards Data Science
+https://medium.com/@radekosmulski/do-smoother-areas-of-the-error-surface-lead-to-better-generalization-b5f93b9edf5b | Do smoother areas of the error surface lead to better generalization?
+https://towardsdatascience.com/beating-the-state-of-the-art-from-2013-with-5-of-data-without-using-transfer-learning-301faf624fb6 | Introduction to data augmentation and pseudo-labeling
+
+https://towardsdatascience.com/estimating-optimal-learning-rate-for-a-deep-neural-network-ce32f2556ce0 | Estimating an Optimal Learning Rate For a Deep Neural Network
+
+https://medium.com/@apiltamang/case-study-a-world-class-image-classifier-for-dogs-and-cats-err-anything-9cf39ee4690e | Case Study: A world class image classifier for dogs and cats (err.., anything)
+
+https://tr.todoist.com/app#agenda%2Foverdue%20%26%20!assigned%20to%3A%20other%2C%20today%20%26%20!assigned%20to%3A%20other | Todoist
+https://www.google.com/search?ei=CQNEW4mhJY3m_QbRprT4Aw&q=sentiospor&oq=sentiospor&gs_l=psy-ab.3..0i10i19k1.1783115.1785577.0.1787543.2.2.0.0.0.0.245.450.2-2.2.0....0...1c.1.64.psy-ab..0.2.448...0i19k1.0.X3o1-7VgyvE | sentiospor - Google'da Ara
+https://sentiosports.com/ | Sentio Sport Analytics
+http://tto.boun.edu.tr/tr/content/sentio-sport-analytics-serdar-alemdar | Sentio Sport Analytics - Serdar Alemdar | Boðaziçi Üniversitesi Teknoloji Transfer Ofisi
+https://twitter.com/sentio_sports | Sentio Sports (@Sentio_Sports) | Twitter
+http://www.ideaport.org.tr/blog/futbol-veri-analizinde-yerli-bir-basari-hikayesi-sentio-sports-analytics | ÝDEAPORT | Futbol Veri Analizinde 'Yerli' Bir Baþarý Hikayesi - Sentio Sports Analytics
+https://www.kaggle.com/datasets | Datasets | Kaggle
+http://course.fast.ai/lessons/lesson4.html | Deep Learning For Coders—36 hours of lessons for free
+http://course.fast.ai/part2.html | Deep Learning For Coders—36 hours of lessons for free
+http://www.hurriyet.com.tr/ | Hürriyet - Haberler, Son Dakika Haberleri ve Güncel Haber
+
+https://www.kaggle.com/rankings?group=competitions | Kaggle Rankings
+https://github.com/alessiamarcolini/deep-learning_best-practices | alessiamarcolini/deep-learning_best-practices
+https://www.kaggle.com/dmytropoplavskiy | Dmytro Poplavskiy | Kaggle
+https://www.kaggle.com/titericz/discussion | Giba | Kaggle
+
+https://github.com/reshamas/fastai_deeplearn_part1 | reshamas/fastai_deeplearn_part1: Notes for Fastai Deep Learning Course
+
+http://cs229.stanford.edu/#info | CS229: Machine Learning
+http://cs229.stanford.edu/proj2017/ | CS229: Machine Learning - Projects Fall 2017
+https://www.youtube.com/watch?v=vT1JzLTH4G4&t=13s | (1) Lecture 1 | Introduction to Convolutional Neural Networks for Visual Recognition - YouTube
+https://www.udemy.com/complete-python-bootcamp/learn/v4/t/quiz/4395098 | Complete Python Bootcamp: Go from zero to hero in Python 3 | Udemy
+https://www.coursera.org/learn/machine-learning/lecture/licwf/advanced-optimization | Advanced Optimization - Stanford University | Coursera
+https://mail.google.com/mail/u/0/#inbox | Gelen Kutusu (1.801) - aykutaskinyucegun@gmail.com - Gmail
+https://www.google.com.tr/search?q=logistic+regression+example&oq=logistic+regression+ex&aqs=chrome.1.69i57j0l5.8154j0j9&sourceid=chrome&ie=UTF-8 | logistic regression example - Google'da Ara
+https://stats.idre.ucla.edu/stata/dae/logistic-regression/ | Logistic Regression | Stata Data Analysis Examples
+https://en.wikipedia.org/wiki/Logistic_regression | Logistic regression - Wikipedia
+https://www.onlinelearning.upenn.edu/courses/ | Courses
+https://www.edx.org/schools-partners | Schools and Partners | edX
+https://www.edx.org/school/mitx | MITx - Free Courses from Massachusetts Institute of Technology | edX
+https://www.edx.org/school/harvardx | HarvardX - Free Courses from Harvard University | edX
+https://www.edx.org/school/uc-berkeleyx | UC BerkeleyX - Free Courses from University of California, Berkeley | edX
+https://www.edx.org/school/bux | BUx - Free Courses from Boston University | edX
+https://www.edx.org/school/georgetownx | GeorgetownX - Free Courses from Georgetown University | edX
+https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x-0 | Learning From Data (Introductory Machine Learning) | edX
+https://onlinecourses.science.psu.edu/stat501/ | Welcome to STAT 501! | STAT 501
+
+http://neuralnetworksanddeeplearning.com/chap1.html | Neural networks and deep learning
+http://course.fast.ai/start.html | Deep Learning For Coders—36 hours of lessons for free
+https://www.youtube.com/watch?v=zl99IZvW7rE | (5) Geoffrey Hinton: The Foundations of Deep Learning - YouTube
+https://medium.com/@hiromi_suenaga/deep-learning-2-part-1-lesson-2-eeae2edd2be4 | Deep Learning 2: Part 1 Lesson 2 – Hiromi Suenaga – Medium
+https://www.youtube.com/watch?v=JNxcznsrRb8&feature=youtu.be | Lesson 2: Deep Learning 2018 - YouTube
+https://www.coursera.org/learn/neural-networks-deep-learning/exam/7lInI/shallow-neural-networks | Shallow Neural Networks | Coursera
+https://www.udemy.com/complete-python-bootcamp/learn/v4/t/lecture/9442472?start=0 | Complete Python Bootcamp: Go from zero to hero in Python 3 | Udemy
+https://www.youtube.com/watch?v=tCHIkgWZLOQ&index=2&list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH | (5) Neural networks [1.2] : Feedforward neural network - activation function - YouTube
+https://www.tensorflow.org/tutorials/ | Tutorials  |  TensorFlow
+https://www.youtube.com/watch?v=uBorfxosVYs&t=653s | (5) Melanie Warrick: How to Get Started with Machine Learning - PyCon 2014 - YouTube
+https://www.youtube.com/watch?v=cKxRvEZd3Mw | (5) Hello World - Machine Learning Recipes #1 - YouTube
+https://www.youtube.com/watch?v=IpGxLWOIZy4&t=533s | (5) A Friendly Introduction to Machine Learning - YouTube
+https://twitter.com/ | (*) Twitter
+https://todoist.com/app#agenda%2Foverdue%20%26%20!assigned%20to%3A%20other%2C%207%20days%20%26%20!assigned%20to%3A%20other | Todoist
+https://mail.google.com/mail/u/0/#inbox/FMfcgxvwzvKPLSnBkwlVsljzMKthwBbX | [Deep Learning Course Forums] Confirm your new account - aykutaskinyucegun@gmail.com - Gmail
+http://forums.fast.ai/ | Deep Learning Course Forums
+http://forums.fast.ai/t/modulenotfounderror-no-module-named-fastai/10663 | ModuleNotFoundError: No module named 'fastai' - Part 1 - Deep Learning Course Forums
+
+http://forums.fast.ai/t/howto-installation-on-windows/10439?source_topic_id=10663 | Howto: installation on Windows - Part 1 - Deep Learning Course Forums
+https://www.google.com/search?q=%27data%2Fdogscats%2Ftrain%27&oq=%27data%2Fdogscats%2Ftrain%27&aqs=chrome..69i57.735j0j4&sourceid=chrome&ie=UTF-8 | 'data/dogscats/train' - Google'da Ara
+https://github.com/fastai/courses/issues/99 | VGG batches path error - Lesson One · Issue #99 · fastai/courses
+http://files.fast.ai/data/ | Index of /data
+https://www.youtube.com/watch?time_continue=4317&v=JNxcznsrRb8 | (5) Lesson 2: Deep Learning 2018 - YouTube
+https://www.youtube.com/watch?v=e3aM6XTekJc&t=0s&list=PLrEfYvG1JxFqR_l3mFUpHg_AtzWoY32p1&index=10 | (5) Lesson 2: Practical Deep Learning for Coders - YouTube
+http://localhost:8890/tree/courses/dl1 | courses/dl1/
+http://localhost:8890/notebooks/courses/dl1/lesson1.ipynb | lesson1
+http://image-net.org/download-imageurls | ImageNet
+https://diagnosticpathology.biomedcentral.com/articles/10.1186/1746-1596-8-92 | Analyzing huge pathology images with open source software | Diagnostic Pathology | Full Text
+https://www.google.com/search?q=diablo+3+sli+support&oq=diablo+3+sli+&aqs=chrome.1.69i57j0l5.10095j0j7&sourceid=chrome&ie=UTF-8 | diablo 3 sli support - Google'da Ara
+https://us.battle.net/forums/en/d3/topic/20751985685 | SLi Support - Diablo III Forums
+http://www.nvidia.in/object/slizone-appprofile-in.html | SLI Application Profiles|NVIDIA
+http://www.nvidia.in/object/sli-technology-games-in.html | Optimise Your Gaming with SLI|NVIDIA
+https://forums.geforce.com/default/topic/988085/diablo-3-sli-support-for-64-bit-client-dx11-/ | Diablo 3 SLI support for 64 bit client(DX11) - GeForce Forums
+
+http://cs231n.github.io/ | CS231n Convolutional Neural Networks for Visual Recognition
+https://github.com/fastai/fastai | fastai/fastai: The fast.ai deep learning library, lessons, and tutorials
+https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv | Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017) - YouTube
+https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/paperspace.md | fastai_deeplearn_part1/paperspace.md at master · reshamas/fastai_deeplearn_part1
+
+http://circ.ahajournals.org/content/132/20/1920#ref-21 | Machine Learning in Medicine | Circulation
+http://stm.sciencemag.org/content/3/108/108ra113.full | Systematic Analysis of Breast Cancer Morphology Uncovers Stromal Features Associated with Survival | Science Translational Medicine
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5283391/figure/F5/ | PubMed Central, Fig. 5: Neurocomputing. 2016 May 26; 191: 214–223. Published online 2016 Feb 17. doi:  10.1016/j.neucom.2016.01.034
+
+http://yerevann.com/a-guide-to-deep-learning/ | A Guide to Deep Learning by YerevaNN
+http://cs231n.stanford.edu/ | Stanford University CS231n: Convolutional Neural Networks for Visual Recognition
+http://www.deeplearningbook.org/ | Deep Learning
+http://www.r2d3.us/visual-intro-to-machine-learning-part-1/ | A visual introduction to machine learning
+http://cs231n.github.io/python-numpy-tutorial/#python | Python Numpy Tutorial
+http://videolectures.net/deeplearning2017_montreal/ | Deep Learning (DLSS) and Reinforcement Learning (RLSS) Summer School, Montreal 2017 - VideoLectures - VideoLectures.NET
+http://karpathy.github.io/2016/05/31/rl/ | Deep Reinforcement Learning: Pong from Pixels
+https://en.wikipedia.org/wiki/Machine_learning | Machine learning - Wikipedia
+https://en.wikipedia.org/wiki/Deep_learning | Deep learning - Wikipedia
+https://en.wikipedia.org/wiki/Machine_learning | Machine learning - Wikipedia
+https://www.udemy.com/complete-python-bootcamp/learn/v4/t/lecture/9442472?start=0 | Complete Python Bootcamp: Go from zero to hero in Python 3 | Udemy
